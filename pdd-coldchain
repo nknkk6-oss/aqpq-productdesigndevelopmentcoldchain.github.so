@@ -1,0 +1,71 @@
+APQP—Product Design & Development in Cold Chain Context
+
+Overall Stage Goal
+
+At this point in APQP, design features are almost final, but still open to refinement based on Voice of Customer (VOC), operational feasibility, and cold chain compliance needs.
+
+Even if the product design comes from the customer or brand owner, the cold chain supplier/distributor must still review it critically to ensure it can:
+
+Survive the chilled/frozen supply chain without damage or spoilage.
+Meet HACCP/ISO 22000 requirements for safety and quality.
+Be manufactured, packed, stored, and transported at scale within temp control limits.
+
+Key Planning Steps in Cold Chain
+
+1. Prototype Build – Verify VOC Compliance
+
+Build sample runs of the product and packaging to confirm it matches what the customer actually values — e.g., texture, flavor, shelf life.
+
+A frozen bakery prototype might be tested for crust crispness after 6 months at –18°C and reheating.
+
+Cold chain twist: Also test “temperature abuse” resilience — e.g., what happens if the frozen meat spends 30 minutes at –10°C during loading?
+
+
+2. Feasible Design Check
+Ensure the design can be manufactured at required volumes without breaking cold chain controls.
+
+For chilled mascarpone: Filling equipment must keep product under 8°C during packing, even at peak throughput.
+
+For frozen fish: Carton design must allow fast freezing to ≤ –18°C core within 4 hours.
+Factors to confirm:
+	Production volume capability.
+	Timing vs. shelf-life window.
+	 Unit cost and packaging material availability.
+
+
+3. Feasibility Studies & Control Plans
+
+Based on engineering drawings and specs, anticipate where in manufacturing cold chain risks could occur.
+
+Eg: Identify a sealing machine as a potential failure point if it overheats packaging film and weakens the seal.
+
+4. Preliminary Feasibility Analysis
+Early risk review for potential manufacturing + cold chain problems:
+Will handling frozen cartons at –20°C cause material cracking?
+Will chilled beverage caps shrink during blast chilling, causing leaks?
+
+Outputs (Cold Chain Context)
+
+Design Failure Mode & Effects Analysis (DFMEA)
+
+Identify possible design failures and their cold chain consequences.
+
+Seal failure in frozen fish vacuum packs → freezer burn → off-odor → customer complaint.
+
+Use FMEA scoring (Severity × Occurrence × Detection) to prioritise risks like seal integrity, oxygen ingress, temperature drift.
+
+Design for Manufacturability & Assembly (DFMA)
+Make sure the design can be produced efficiently in a temp-controlled environment.
+Cold chain considerations:
+Limit number of manual handling steps in chilled rooms (reduce exposure).
+Choose materials that stay flexible at low temps.
+Packaging that stacks without crushing under cold room humidity.
+
+Points applied to cold chain:
+	1.	Design, Concept, Function, Sensitivity to Variation — e.g., lid fit changes if plastic shrinks in cold storage.
+	2.	Manufacturing/Assembly Process — avoid steps that generate heat in chilled zones.
+	3.	Dimensional Tolerances — ensure jars fit in auto-fill lines without sticking at low temps.
+	4.	Performance Requirements — maintain seal integrity from –20°C to +5°C.
+	5.	Number of Components — fewer = faster packing in cold rooms.
+	6.	Process Adjustments — ability to adapt fill weight for seasonal density changes in dairy.
+	7.	Material Handling — pallets must fit reefer floor rails without extra repacking.
